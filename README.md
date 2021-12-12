@@ -1,4 +1,4 @@
-# apiDoc
+# apiDoc  根据代码中的注释生成 RESTful 风格的 API 文档。注释示例：
 
 apiDoc creates a documentation from API descriptions in your source code.
 
